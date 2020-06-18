@@ -1,0 +1,13 @@
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\bin\Debug\netcoreapp3.1\HW18_6_20.exe
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\bin\Debug\netcoreapp3.1\HW18_6_20.deps.json
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\bin\Debug\netcoreapp3.1\HW18_6_20.runtimeconfig.json
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\bin\Debug\netcoreapp3.1\HW18_6_20.runtimeconfig.dev.json
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\bin\Debug\netcoreapp3.1\HW18_6_20.dll
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\bin\Debug\netcoreapp3.1\HW18_6_20.pdb
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\obj\Debug\netcoreapp3.1\HW18_6_20.csprojAssemblyReference.cache
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\obj\Debug\netcoreapp3.1\HW18_6_20.AssemblyInfoInputs.cache
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\obj\Debug\netcoreapp3.1\HW18_6_20.AssemblyInfo.cs
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\obj\Debug\netcoreapp3.1\HW18_6_20.csproj.CoreCompileInputs.cache
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\obj\Debug\netcoreapp3.1\HW18_6_20.dll
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\obj\Debug\netcoreapp3.1\HW18_6_20.pdb
+C:\Users\xoldx\source\repos\HW18_6_20\HW18_6_20\obj\Debug\netcoreapp3.1\HW18_6_20.genruntimeconfig.cache
