@@ -1,0 +1,13 @@
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\bin\Debug\netcoreapp3.1\HW_8_7.exe
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\bin\Debug\netcoreapp3.1\HW_8_7.deps.json
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\bin\Debug\netcoreapp3.1\HW_8_7.runtimeconfig.json
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\bin\Debug\netcoreapp3.1\HW_8_7.runtimeconfig.dev.json
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\bin\Debug\netcoreapp3.1\HW_8_7.dll
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\bin\Debug\netcoreapp3.1\HW_8_7.pdb
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\obj\Debug\netcoreapp3.1\HW_8_7.csprojAssemblyReference.cache
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\obj\Debug\netcoreapp3.1\HW_8_7.AssemblyInfoInputs.cache
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\obj\Debug\netcoreapp3.1\HW_8_7.AssemblyInfo.cs
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\obj\Debug\netcoreapp3.1\HW_8_7.csproj.CoreCompileInputs.cache
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\obj\Debug\netcoreapp3.1\HW_8_7.dll
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\obj\Debug\netcoreapp3.1\HW_8_7.pdb
+C:\Users\xoldx\source\repos\HW_8_7\HW_8_7\obj\Debug\netcoreapp3.1\HW_8_7.genruntimeconfig.cache
