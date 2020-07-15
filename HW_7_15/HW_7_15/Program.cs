@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace HW_7_15
 {
