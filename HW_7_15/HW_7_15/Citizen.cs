@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -19,7 +19,10 @@ namespace HW_7_15
             _fatherID = fatherID;
             _numberOfCurrentCitizens++;
             _id = _numberOfCurrentCitizens + fatherID;
-            _children = new Citizen[0];
+            
+            //This would have been a way to avoid all null checks 
+            //Did not implement as it was not mentioned 
+            //_children = new Citizen[0];
         }
 
         public static void PrintNumberOfCitizens()
