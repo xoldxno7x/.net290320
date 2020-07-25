@@ -1,0 +1,13 @@
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\bin\Debug\netcoreapp3.1\NewsComp.exe
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\bin\Debug\netcoreapp3.1\NewsComp.deps.json
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\bin\Debug\netcoreapp3.1\NewsComp.runtimeconfig.json
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\bin\Debug\netcoreapp3.1\NewsComp.runtimeconfig.dev.json
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\bin\Debug\netcoreapp3.1\NewsComp.dll
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\bin\Debug\netcoreapp3.1\NewsComp.pdb
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\obj\Debug\netcoreapp3.1\NewsComp.csprojAssemblyReference.cache
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\obj\Debug\netcoreapp3.1\NewsComp.AssemblyInfoInputs.cache
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\obj\Debug\netcoreapp3.1\NewsComp.AssemblyInfo.cs
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\obj\Debug\netcoreapp3.1\NewsComp.csproj.CoreCompileInputs.cache
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\obj\Debug\netcoreapp3.1\NewsComp.dll
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\obj\Debug\netcoreapp3.1\NewsComp.pdb
+C:\Users\xoldx\source\repos\NewsComp\NewsComp\obj\Debug\netcoreapp3.1\NewsComp.genruntimeconfig.cache

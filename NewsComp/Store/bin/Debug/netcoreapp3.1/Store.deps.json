@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Store/1.0.0": {
+        "dependencies": {
+          "NewsComp": "1.0.0"
+        },
+        "runtime": {
+          "Store.dll": {}
+        }
+      },
+      "NewsComp/1.0.0": {
+        "runtime": {
+          "NewsComp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewsComp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
