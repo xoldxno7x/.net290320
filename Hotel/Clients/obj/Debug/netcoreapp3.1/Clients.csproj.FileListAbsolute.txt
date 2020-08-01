@@ -1,0 +1,13 @@
+C:\Users\xoldx\source\repos\Hotel\Clients\bin\Debug\netcoreapp3.1\Clients.exe
+C:\Users\xoldx\source\repos\Hotel\Clients\bin\Debug\netcoreapp3.1\Clients.deps.json
+C:\Users\xoldx\source\repos\Hotel\Clients\bin\Debug\netcoreapp3.1\Clients.runtimeconfig.json
+C:\Users\xoldx\source\repos\Hotel\Clients\bin\Debug\netcoreapp3.1\Clients.runtimeconfig.dev.json
+C:\Users\xoldx\source\repos\Hotel\Clients\bin\Debug\netcoreapp3.1\Clients.dll
+C:\Users\xoldx\source\repos\Hotel\Clients\bin\Debug\netcoreapp3.1\Clients.pdb
+C:\Users\xoldx\source\repos\Hotel\Clients\obj\Debug\netcoreapp3.1\Clients.csprojAssemblyReference.cache
+C:\Users\xoldx\source\repos\Hotel\Clients\obj\Debug\netcoreapp3.1\Clients.AssemblyInfoInputs.cache
+C:\Users\xoldx\source\repos\Hotel\Clients\obj\Debug\netcoreapp3.1\Clients.AssemblyInfo.cs
+C:\Users\xoldx\source\repos\Hotel\Clients\obj\Debug\netcoreapp3.1\Clients.csproj.CoreCompileInputs.cache
+C:\Users\xoldx\source\repos\Hotel\Clients\obj\Debug\netcoreapp3.1\Clients.dll
+C:\Users\xoldx\source\repos\Hotel\Clients\obj\Debug\netcoreapp3.1\Clients.pdb
+C:\Users\xoldx\source\repos\Hotel\Clients\obj\Debug\netcoreapp3.1\Clients.genruntimeconfig.cache
